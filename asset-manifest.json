@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BitCotTask/static/css/main.93bbb33d.css",
+    "main.js": "/BitCotTask/static/js/main.37790b8d.js",
+    "static/js/787.8686f4f2.chunk.js": "/BitCotTask/static/js/787.8686f4f2.chunk.js",
+    "static/media/play-store.svg": "/BitCotTask/static/media/play-store.73d72a5fabde1830e0985ad75ae374fb.svg",
+    "static/media/app-store.svg": "/BitCotTask/static/media/app-store.709c1ac0737d8cbbb2588912ba367a64.svg",
+    "static/media/windows-store.svg": "/BitCotTask/static/media/windows-store.6c6aaa1ea8e7cf5e075f0a3446a0e6ed.svg",
+    "static/media/instagram-white.svg": "/BitCotTask/static/media/instagram-white.9030ae98f3e7bdf2ccb4e7a8dc5a8026.svg",
+    "index.html": "/BitCotTask/index.html",
+    "static/media/twitter-white.svg": "/BitCotTask/static/media/twitter-white.23bd66ea79c11696a2a5f881bea84e84.svg",
+    "static/media/facebook-white.svg": "/BitCotTask/static/media/facebook-white.cecfb79857b909ebba3c46d70fa63067.svg",
+    "main.93bbb33d.css.map": "/BitCotTask/static/css/main.93bbb33d.css.map",
+    "main.37790b8d.js.map": "/BitCotTask/static/js/main.37790b8d.js.map",
+    "787.8686f4f2.chunk.js.map": "/BitCotTask/static/js/787.8686f4f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bbb33d.css",
+    "static/js/main.37790b8d.js"
+  ]
+}

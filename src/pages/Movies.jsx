@@ -10,7 +10,6 @@ const Movies = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    console.log(data);
     let movies = data[0].entries.filter(
       (movie) => movie.programType === "movie"
     );

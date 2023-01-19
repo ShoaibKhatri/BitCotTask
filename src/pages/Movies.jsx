@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { Card, ListGroup } from "react-bootstrap";
 import Footer from "../components/Footer";
 import Heading from "../components/Heading";
 import MovieCard from "../components/MovieCard";
